@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Henrique!
+### about me
 
 I am a Kernel Developer (cifs.ko) @ SUSE, based in São Paulo, Brazil (GMT -3), living with my [girlfriend and our dog in our beautiful apartment](https://decarv.github.io/misc/IMG_6706.jpg), and working from home.
 
