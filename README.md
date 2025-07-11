@@ -4,4 +4,4 @@ I am a Kernel Developer (cifs.ko) @ SUSE, based in São Paulo, Brazil (GMT -3), 
 
 I hold a Bachelor's degree in Computer Science from the [University of São Paulo](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo) (2020 - 2023).
 
-I am currently contributing to the [pgagroal project, as part of Google Summer of Code 2024](https://github.com/agroal/pgagroal/discussions/442).
+In 2024, I contributed to the [pgagroal project, as part of Google Summer of Code](https://github.com/agroal/pgagroal/discussions/442).
